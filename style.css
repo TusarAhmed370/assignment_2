@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Penguin-card{
+    border: 0;
+}
+.Penguin-card-footer h5{
+    text-align: left;
+    
+}
+.banner{
+    background-color: rgb(255 209 201);
+}
+.Penguin-card img{
+    width: 200px;
+    height: 220px;
+    margin: 5px auto;
+}
+.last-sec-item{
+    border: 1px solid transparent;
+    border-radius: 12px;
+    box-shadow: 10px 10px 8px rgb(196, 194, 194);
+    margin: 20px 0;
+}
+.last-sec-item img{
+    width: 100px;
+    height: 100px;
+    margin: 5px 10px;
+}
